@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 Developers, I'm Goutham</h1>
-<h3 align="center">A passionate developer. Curious about Robotics and Software</h3>
+<h3 align="center">A passionate developer. Curious about Robotics and Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutham03062001&label=Profile%20views&color=0e75b6&style=flat" alt="goutham03062001" /> </p>
 
